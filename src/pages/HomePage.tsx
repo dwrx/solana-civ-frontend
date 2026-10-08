@@ -106,13 +106,6 @@ const HomePage: React.FC = () => {
                 </a>
               </div>
             </Grid>
-            <Grid item xs={12}>
-              <div className="btn-text">
-                <a href="https://twitter.com/solanaciv" target="_blank" rel="noreferrer">
-                  Twitter | X
-                </a>
-              </div>
-            </Grid>
           </>
         ) : (
           <>
